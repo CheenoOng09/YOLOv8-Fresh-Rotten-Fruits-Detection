@@ -1,0 +1,15 @@
+info: 
+0_bellpepper_fresh 480 60 60 = 600
+1_bellpepper_rotten 473 59 59 = 591
+2_bitterground_fresh 261 33 33 = 327
+3_bitterground_rotten 285 36 36 = 357
+4_capsicum_fresh 792 99 99 = 990
+5_capsicum_rotten 721 90 90 = 901
+6_carrot_fresh 488 61 61 = 610
+7_carrot_rotten 357 44 44 = 445
+8_cucumber_fresh 473 59 59 = 591
+9_cucumber_rotten 449 56 56 = 561
+10_okra_fresh 507 64 64 = 635
+11_okra_rotten 270 34 34 = 338	(png)
+12_potato_fresh 486 61 61 = 608
+13_potato_rotten 452 56 56 = 564

@@ -1,0 +1,19 @@
+names:
+- bellpepper_fresh
+- bellpepper_rotten
+- bitter_gourd_fresh
+- bitter_gourd_rotten
+- capsicum_fresh
+- capsicum_rotten
+- carrot_fresh
+- carrot_rotten
+- cucumber_fresh
+- cucumber_rotten
+- okra_fresh
+- okra_rotten
+- potato_fresh
+- potato_expired
+nc: 14
+test: test
+train: train
+val: valid
