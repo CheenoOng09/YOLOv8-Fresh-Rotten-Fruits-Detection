@@ -3,7 +3,7 @@
 **Authors:** 
 - Mikollito Ong
 - 徐葆翰
-- 
+  
 **Institution:** Yuan Ze University (元智大学)  
 **Project Type:** Final Year / Capstone Project  
 
@@ -151,4 +151,5 @@ python scripts/app.py --weights weights/best.pt
 ## License
 
 This project is released under the **MIT License**.
+
 
